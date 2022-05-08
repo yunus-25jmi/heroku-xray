@@ -1,3 +1,5 @@
+Railway: https://railway.app/new/template?template=https://github.com/yunus-25jmi/heroku-xray&envs=UUID&TOKENDesc=uUID+NO
+
 # xʀᴀʏ+ᴠʟᴇꜱꜱ ꜱᴇʀᴠᴇʀ.
 
 ⭕ ʏᴏᴜ ᴄᴀɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴠ2ʀᴀʏ ꜱᴇʀᴠᴇʀ ᴜꜱɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ.
